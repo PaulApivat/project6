@@ -1,0 +1,60 @@
+
+body {
+	background-color: black;
+}
+
+.container {
+	height: 1800px;
+	width: 900px;
+	background-color: blue;
+	margin-left: 200px;
+}
+
+
+/* span {display: block;}  */
+.grey {
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	display: inline-block;
+
+}
+
+/*
+.grey.highlighted {
+	-webkit-box-shadow: 0 0 8px #FFD700;
+  -moz-box-shadow: 0 0 8px #FFD700;
+  box-shadow: 0 0 8px #FFD700;
+  cursor:pointer;
+}
+*/
+
+
+
+
+p {
+	color: #00FF99;
+}
+
+.footer {
+	height: 50px;
+	width: 900px;
+	background-color: gray;
+	margin-left: 200px;
+	text-align: center;
+	word-spacing: 50px;
+	margin-top: 50px;
+	padding-top: 50px;
+}
+
+.footer .home {
+	border-style: solid;
+	border-color: white;
+	width: 40px;
+}
+
+.footer .blog {
+	border-style: solid;
+	border-color: white;
+	width: 40px;
+}
